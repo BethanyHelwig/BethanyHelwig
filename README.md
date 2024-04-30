@@ -6,4 +6,4 @@ I am a software developer in training (graduating Fall 2024 from the College of 
 - 🌱 I'm learning C# and Unity and loving it.
 - ⚡ Fun fact: I write novels as a hobby and want to create a game based off my books in the near future.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixverus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethanyhelwig&layout=compact)
